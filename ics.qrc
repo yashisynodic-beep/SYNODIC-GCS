@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>app_icon.ico</file>
+    <file>background.gif</file>
+    <file>rewind.png</file>
+    <file>bg_3.jpeg</file>
+    <file>fast-forward.png</file>
+    <file>power-button.png</file>
+    <file>play.png</file>
+    <file>1ebcd6625401ac1219778d63aef100ca_540w.gif</file>
+    <file>message.png</file>
+    <file>Untitled design (2).gif</file>
+    <file>1-removebg-preview.png</file>
+    <file>Untitled design.gif</file>
+    <file>3-removebg-preview.png</file>
+    <file>5-removebg-preview.png</file>
+    <file>6.png</file>
+    <file>6-removebg-preview.png</file>
+    <file>7.png</file>
+    <file>7-removebg-preview.png</file>
+    <file>8848ee68ea738abadd3f2740df920522_X-Design.png</file>
+    <file>ae611c1f902e7b91204fde7c659d4a36_X-Design.png</file>
+    <file>download-removebg-preview (1).png</file>
+    <file>ethernet.png</file>
+    <file>logosynodic-C6BpZBDC-removebg-preview.png</file>
+    <file>db-removebg-preview.png</file>
+    <file>pause-play.png</file>
+    <file>Rocket.gif</file>
+    <file>Space Travel Rocket GIF by VitraCash.gif</file>
+    <file>WhatsApp_Image_2025-11-28_at_14.29.41_8941b3a5-removebg-preview.png</file>
+  </qresource>
+</RCC>
